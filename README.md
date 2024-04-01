@@ -18,16 +18,6 @@ The dataset was collected from Kaggle. It contains meteorological data of Austin
 
 Therefore, atmospheric features such as temperature, relative humidity, sea level pressure, and wind speed are seen as important features that predict rainfall accurately.
 
-
-
-
-## Acknowledgements
-
- - [What Is a Regression Model?](https://www.imsl.com/blog/what-is-regression-model#:~:text=A%20regression%20model%20provides%20a,by%20a%20linear%20regression%20model.)
- - [Approaching (Almost) Any Machine Learning Problem Paperback](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem/dp/8269211508)
- - [Austin Weather](https://www.kaggle.com/datasets/grubenm/austin-weather)
-
-
 ## Appendix
 ![sample model](https://miro.medium.com/max/720/1*G1Y_-X14q2xMVHlUuaUUdA.png)
 
@@ -36,11 +26,6 @@ Linear regression is a basic predictive analytics technique that uses historical
 Linear regression models have many real-world applications in an array of industries such as economics (e.g. predicting growth), business (e.g. predicting product sales, employee performance), social science (e.g. predicting political leanings from gender or race), healthcare (e.g. predicting blood pressure levels from weight, disease onset from biological factors), and more.
 
 Understanding how to implement linear regression models can unearth stories in data to solve important problems.
-
-## Authors
-
-- [@MichaelTobiko](https://github.com/miketobz)
-
 
 ## API Reference
 
@@ -88,12 +73,7 @@ The minimum number of samples required to split an internal node:
 
 If int, then consider min_samples_split as the minimum number.
 
-If float, then min_samples_split is a fraction and ceil(min_samples_split * n_samples) are the minimum number of samples for each split.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-tobiko-1563a693)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/MichaelTobiko)
-
+If float, then min_samples_split is a fraction and ceil(min_samples_split * n_samples) are the minimum number of samples for each split
 
 ## Demo
 ![Demo](https://c.tenor.com/20n67BNCG9wAAAAC/linear-regression.gif)
